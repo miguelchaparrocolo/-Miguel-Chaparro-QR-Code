@@ -1,0 +1,11 @@
+img {
+    width: 180px;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  
+  @media (min-width: 375px) {
+    img {
+      width: 280px;
+    }
+  }
