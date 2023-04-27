@@ -1,0 +1,15 @@
+.container__card--subtext {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
+    font-size: 15px;
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: center;
+    color: grey;
+    font-weight: 900;
+  }
+  
+  @media (min-width: 375px) {
+    .container__card--subtext {
+      font-size: 16px;
+    }
+  }
